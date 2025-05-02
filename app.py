@@ -48,7 +48,7 @@ def send_email():
 
         # Send email using Gmail SMTP
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-            server.login(sender_email, "otic zjio fzkm bldg")  # Use your app password here
+            server.login(sender_email, "GMAIL_APP_PASSWORD")  # Use your app password here
             server.sendmail(sender_email, receiver_email, message.as_string())
 
         return jsonify({'message': 'Email sent successfully!'}), 200
