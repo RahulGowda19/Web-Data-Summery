@@ -4,6 +4,8 @@
 
 This project provides a web-based interface for managing and processing data from CSV files. It allows users to upload, display, filter, download, and delete data, as well as send data via email.
 
+![image alt](https://github.com/RahulGowda19/Web-Data-Summery/blob/main/img/Screenshot%202025-05-02%20231221.png)
+
 ## Features
 
 * **Upload CSV Data:** Upload CSV files to the application.
