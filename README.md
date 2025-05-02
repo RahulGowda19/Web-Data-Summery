@@ -46,7 +46,7 @@ This project provides a web-based interface for managing and processing data fro
 
 ## Important Notes on Email Functionality
 
-* **Gmail App Password:** The application uses a hardcoded Gmail app password (`"otic zjio fzkm bldg"`) for sending emails.  **You MUST replace this with your own Gmail app password** for the email functionality to work.
+* **Gmail App Password:** The application uses Gmail app password for sending emails.  **You MUST replace this with your own Gmail app password** for the email functionality to work.
     * Generate an App Password:
         * Go to your Google Account: `https://myaccount.google.com/`
         * Navigate to "Security".
